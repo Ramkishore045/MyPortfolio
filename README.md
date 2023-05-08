@@ -1,11 +1,11 @@
 This project is built using these technologies.
 
-React.js
-CSS3
-VsCode
-Vercel
-Features
-Multi-Page Layout
+React.js,
+CSS3,
+VsCode,
+Vercel,
+Features,
+Multi-Page Layout,
 
 Styled with React-Bootstrap and Css
 
